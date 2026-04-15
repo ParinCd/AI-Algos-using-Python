@@ -13,4 +13,4 @@ It iteratively moves toward better solutions based on a heuristic.
 
 ## How to Run
 ```bash
-python Hill_Climb_Algorithm.py
+python Hill_Climb_Algo.py
